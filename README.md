@@ -1,6 +1,6 @@
 # API-REST-na-Nuvem-Usando-Spring-Boot-3-Java-17-e-Railway
 
-*Este projeto é uma API RESTful** desenvolvida com **Spring Boot 3**, utilizando **Java 21** e hospedada na **Railway**. A API foi construída para demonstrar como integrar essas tecnologias modernas em um ambiente de produção escalável na nuvem.
+*Este projeto é uma API **RESTful** desenvolvida com **Spring Boot 3**, utilizando **Java 21** e hospedada na **Railway**. A API foi construída para demonstrar como integrar essas tecnologias modernas em um ambiente de produção escalável na nuvem.
 
 ---
 
